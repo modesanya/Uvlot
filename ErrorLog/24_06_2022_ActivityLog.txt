@@ -1,0 +1,8 @@
+6/24/2022 12:39:16 PM:  {"phoneNumber":"08151361437","message":"Dear VICTOR NWANNE OLISE, Kindly use the link https://staging.recova.ng/consent?id=w63NMOa0pzp5bqDZlo8D7A%3d%3d or dial *614*564# with Token: 1880 to setup a direct debit mandate of N5,050.00 against all your bank accounts as a condition for approving your N5,000.00 loan request in Paelyt SOlutions Limited"}
+
+6/24/2022 12:41:17 PM:  {"phoneNumber":"08151361437","message":"Dear VICTOR NWANNE OLISE, Kindly use the link https://staging.recova.ng/consent?id=w63NMOa0pzp5bqDZlo8D7A%3d%3d or dial *614*564# with Token: 1880 to setup a direct debit mandate of N5,050.00 against all your bank accounts as a condition for approving your N5,000.00 loan request in Paelyt SOlutions Limited"}
+
+6/24/2022 12:49:17 PM:  {"phoneNumber":"08151361437","message":"Dear VICTOR NWANNE OLISE, Kindly use the link https://staging.recova.ng/consent?id=w63NMOa0pzp5bqDZlo8D7A%3d%3d or dial *614*564# with Token: 1880 to setup a direct debit mandate of N5,050.00 against all your bank accounts as a condition for approving your N5,000.00 loan request in Paelyt SOlutions Limited"}
+
+6/24/2022 12:51:41 PM:  {"phoneNumber":"08151361437","message":"Dear VICTOR NWANNE OLISE, Kindly use the link https://staging.recova.ng/consent?id=w63NMOa0pzp5bqDZlo8D7A%3d%3d or dial *614*564# with Token: 1880 to setup a direct debit mandate of N5,050.00 against all your bank accounts as a condition for approving your N5,000.00 loan request in Paelyt SOlutions Limited"}
+
